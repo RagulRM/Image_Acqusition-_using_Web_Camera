@@ -27,9 +27,9 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program
 
- Developed By: Shanmathi S
+ Developed By: Ragul R
  
- Register No: 212222100049
+ Register No: 212222100040
 
 ### i) Write the frame as JPG file
 ```
